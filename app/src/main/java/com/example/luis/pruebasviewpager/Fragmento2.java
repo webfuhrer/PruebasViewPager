@@ -13,6 +13,7 @@ import android.widget.Button;
 /**
  * Created by luis on 21/11/2017.
  */
+//Probando commit de ViewPager
 
 public class Fragmento2 extends Fragment {
     public View.OnClickListener oyente=new View.OnClickListener() {
